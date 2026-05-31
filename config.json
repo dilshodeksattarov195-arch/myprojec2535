@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productppdate",
+        "uuid": 4953390,
+        "checksum": "s5fahc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
